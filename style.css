@@ -1,3 +1,9 @@
+.container{
+    margin-bottom: 50px;
+}
+body {
+    font-family: 'Poppins', ;
+}
 .navbar{
     width: 100%;
 }
@@ -8,4 +14,12 @@
     padding: 9px 10px;
     border: none;
     cursor: pointer;
+}
+.smartphone-section {
+    margin-bottom: 50px;
+}
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
 }
