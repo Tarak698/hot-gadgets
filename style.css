@@ -23,3 +23,15 @@ body {
     margin-right: 0px;
     margin-bottom: 20px;
 }
+.card{
+    border: none;
+    border-radius: 5px 5px 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.carousel-item{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
+    padding-bottom: 50px;
+}
